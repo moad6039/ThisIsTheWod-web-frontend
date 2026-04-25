@@ -32,6 +32,6 @@ yarn-error.log*
 .vercel
 
 # Temporarily hidden folders
-/app
+/app/screens
 /components
 /lib
